@@ -1,0 +1,38 @@
+{
+  "animals": [
+    "An octopus has three hearts and blue blood",
+    "Wombats produce cube-shaped poop",
+    "Sea otters hold hands while sleeping so they don't drift apart",
+    "Flamingos are born grey and turn pink from pigments in their food",
+    "Koala fingerprints are so similar to human ones they could confuse investigators"
+  ],
+  "space": [
+    "A day on Venus is longer than its year",
+    "Sunlight takes about 8 minutes to reach Earth",
+    "Footprints on the Moon can last millions of years",
+    "About 1.3 million Earths could fit inside the Sun",
+    "A teaspoon of neutron star material would weigh about a billion tons"
+  ],
+  "history": [
+    "Cleopatra lived closer in time to the Moon landing than to the building of the Great Pyramid",
+    "Oxford University is older than the Aztec Empire",
+    "The shortest war in history (Anglo-Zanzibar War, 1896) lasted under 45 minutes",
+    "Woolly mammoths were still alive when the Great Pyramid was built",
+    "Napoleon wasn't short: about 5'7\" (170 cm), average for his time"
+  ],
+  "human_body": [
+    "You're about 1 cm taller in the morning",
+    "Babies are born with about 300 bones; adults have 206",
+    "Your stomach lining renews itself every few days",
+    "You can't tickle yourself because your brain predicts the touch",
+    "Your heart beats about 100,000 times a day",
+    "Your brain uses about 20% of your body's energy but is only about 2% of your body weight"
+  ],
+  "food": [
+    "Bananas are berries, but strawberries aren't",
+    "Honey never spoils",
+    "Peanuts aren't nuts; they're legumes",
+    "Apples float because they're about 25% air",
+    "Carrots were originally purple or yellow; orange ones became popular in the 1600s"
+  ]
+}

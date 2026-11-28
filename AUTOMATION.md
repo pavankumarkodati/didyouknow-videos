@@ -23,7 +23,12 @@ For a post date T: `d = (T - 2026-11-26).days`
    - single: `<fact hook> <emoji>\n\nDid you know that? Comment YES or NO 👇\n\nFollow @socmed311 for a new fact every day 💡\n\n<8 hashtags>`
    - five: `5 <category> facts that sound fake… but are true <emoji> <teaser for fact 5>\n\nWhich one shocked you most? Comment 1–5 👇\n\nFollow @socmed311 for a new fact every day 💡\n\n<8 hashtags>`
    - Hashtags start with `#didyouknow #funfacts`. Never write "#5" or "#1" in the text, because Instagram turns it into a hashtag.
-6. **Summary** (sent to the owner's phone as a notification). Keep it short:
+6. **Update the project facts log.** Read the claude.ai Project doc `claude/facts_used_log.md` with the Projects tool (`project_read`), then write it back to the same path (`project_write`). Keep its template and existing text exactly as they are. Only add:
+   - a row to "Instagram Reels scheduled" (`| <Mon D> | <file>.mp4 |`), and change the line under that table to "Content runs out after <last date>; the daily run adds one new video each day."
+   - a row to the "Batch 3 (daily runs…)" table (`| <date> | <file>.mp4 | Single, 13s / Mind Blown, 31s | <fact, or the 5 facts in order joined with →> |`)
+   - each new fact as the next numbered item under its category in "Facts per category".
+   If the Projects tool isn't available, say so in the summary.
+7. **Summary** (sent to the owner's phone as a notification). Keep it short:
    - ✅ Posted today: <title> — <Reel link> (or ❌ with the error)
    - 🗓️ Freed slot filled: <date> 6 PM
    - 🎬 New video: <title> (<style>, <category>), with its fact(s) in one line each

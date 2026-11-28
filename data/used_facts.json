@@ -5,14 +5,24 @@
     "Sea otters hold hands while sleeping so they don't drift apart",
     "Flamingos are born grey and turn pink from pigments in their food",
     "Koala fingerprints are so similar to human ones they could confuse investigators",
-    "Polar bears have black skin, and their fur is see-through, not white"
+    "Polar bears have black skin, and their fur is see-through, not white",
+    "Elephants can't jump",
+    "Starfish have no brain and no blood",
+    "Giraffes have 7 neck vertebrae, the same as humans",
+    "A shrimp's heart is in its head (cephalothorax)",
+    "Sharks (~450 million years) are older than trees (~385 million years)"
   ],
   "space": [
     "A day on Venus is longer than its year",
     "Sunlight takes about 8 minutes to reach Earth",
     "Footprints on the Moon can last millions of years",
     "About 1.3 million Earths could fit inside the Sun",
-    "A teaspoon of neutron star material would weigh about a billion tons"
+    "A teaspoon of neutron star material would weigh about a billion tons",
+    "A year on Neptune lasts about 165 Earth years",
+    "Olympus Mons on Mars is about 2.5 times taller than Everest (~22 km)",
+    "Jupiter's Great Red Spot is wider than Earth",
+    "The Sun holds about 99.8% of the solar system's mass",
+    "Saturn is less dense than water"
   ],
   "history": [
     "Cleopatra lived closer in time to the Moon landing than to the building of the Great Pyramid",
@@ -24,7 +34,12 @@
     "Vikings never wore horned helmets; that image came from 1800s art and opera costumes",
     "Abraham Lincoln is in the National Wrestling Hall of Fame (inducted 1992)",
     "Nintendo was founded in 1889 as a playing-card company",
-    "The fax machine (patented 1843) is older than the telephone (1876)"
+    "The fax machine (patented 1843) is older than the telephone (1876)",
+    "The Eiffel Tower was meant to be temporary (20-year permit)",
+    "The Statue of Liberty was originally copper-brown, not green",
+    "Einstein was offered the presidency of Israel in 1952",
+    "The US bought Alaska for about 2 cents an acre ($7.2M, 1867)",
+    "France used the guillotine until 1977, the year Star Wars came out"
   ],
   "human_body": [
     "You're about 1 cm taller in the morning",
@@ -32,7 +47,12 @@
     "Your stomach lining renews itself every few days",
     "You can't tickle yourself because your brain predicts the touch",
     "Your heart beats about 100,000 times a day",
-    "Your brain uses about 20% of your body's energy but is only about 2% of your body weight"
+    "Your brain uses about 20% of your body's energy but is only about 2% of your body weight",
+    "Tooth enamel is the hardest substance in the body",
+    "Your left lung is smaller than your right, to make room for the heart",
+    "The smallest bone (stapes) is in your ear, about 3 mm",
+    "Your blood vessels (~60,000 miles) could circle Earth twice",
+    "Babies don't have bony kneecaps; they start as cartilage"
   ],
   "food": [
     "Bananas are berries, but strawberries aren't",
@@ -44,6 +64,11 @@
     "Vanilla comes from the seed pods of an orchid",
     "Cashews grow outside their fruit, hanging below the cashew apple",
     "Pistachios can spontaneously combust in large piles",
-    "Ketchup was sold as medicine (tomato pills) in the 1830s"
+    "Ketchup was sold as medicine (tomato pills) in the 1830s",
+    "Ripe cranberries bounce (air pockets inside)",
+    "White chocolate contains no cocoa solids, only cocoa butter",
+    "The Aztecs used cacao beans as money",
+    "Each strawberry 'seed' (achene) is its own fruit",
+    "The potato was the first food grown in space (Columbia, 1995)"
   ]
 }
